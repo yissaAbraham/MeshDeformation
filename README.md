@@ -1,7 +1,7 @@
 # cs236329 at the Technion - Israel Institute of Technology
 
-**an implementation in python based on [An Intuitive Framework for Real-Time Freeform Modeling Implementation](https://github.com/ManorZ/cs236329/blob/project/docs/An%20Intuitive%20Framework%20for%20Real-Time%20Freeform%20Modeling.pdf)**
-![Demo](https://github.com/yissaAbraham/MeshDeformation/blob/data/plots_mesh_tool/mesh_demo.gif)
+**an implementation in python based on [An Intuitive Framework for Real-Time Freeform Modeling Implementation](https://github.com/yissaAbraham/MeshDeformation/blob/main/docs/An%20Intuitive%20Framework%20for%20Real-Time%20Freeform%20Modeling.pdf)**
+![Demo](https://github.com/yissaAbraham/MeshDeformation/blob/main/data/plots_mesh_tool/mesh_demo.gif)
 
 ## Introduction
 
@@ -20,3 +20,4 @@ cd MeshDeformation
 pip install -r requirements.txt
 python src/mesh_tool.py
 ```
+
