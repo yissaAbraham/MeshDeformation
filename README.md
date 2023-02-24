@@ -1,5 +1,5 @@
 # cs236329 at the Technion - Israel Institute of Technology
-
+  
 **an implementation in python based on [An Intuitive Framework for Real-Time Freeform Modeling Implementation](https://github.com/yissaAbraham/MeshDeformation/blob/main/docs/An%20Intuitive%20Framework%20for%20Real-Time%20Freeform%20Modeling.pdf)**
 ![Demo](https://github.com/yissaAbraham/MeshDeformation/blob/main/data/plots_mesh_tool/mesh_demo.gif)
 
@@ -21,3 +21,10 @@ pip install -r requirements.txt
 python src/mesh_tool.py
 ```
 
+
+## Refernces
+**[Course assignments github](https://github.com/ManorZ/cs236329.git)**
+
+1.	Botsch, Mario, and Leif Kobbelt. "An intuitive framework for real-time freeform modeling." ACM Transactions on Graphics (TOG) 23.3 (2004): 630-634.‏ \Discrete di_erential-geometry operators for triangulated
+
+2.	Kobbelt, Leif, et al. "Interactive multi-resolution modeling on arbitrary meshes." Proceedings of the 25th annual conference 
